@@ -1,0 +1,10 @@
+{
+  "home": {
+    "title": "Bun venit pe pagina de acasă",
+    "description": "Acesta este conținutul paginii de acasă în limba română."
+  },
+  "about": {
+    "title": "Despre Noi",
+    "description": "Acesta este conținutul paginii despre noi în limba română."
+  }
+}
