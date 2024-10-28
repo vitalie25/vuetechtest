@@ -1,6 +1,6 @@
 import { reactive } from 'vue'
-import enTranslations from './assets/en/translations.json'
-import roTranslations from './assets/ro/translations.json'
+import enTranslations from '../assets/en/translations.json'
+import roTranslations from '../assets/ro/translations.json'
 
 type TranslationStrings = string | { [key: string]: TranslationStrings }
 type Translations = Record<string, TranslationStrings>
